@@ -39,7 +39,7 @@ function Chat() {
       </IconButton>
 
       <Typography variant="h4" gutterBottom textAlign="center">
-        GPT-4o Chat
+       CHAT GPT API TEST
       </Typography>
       
       <Paper 
